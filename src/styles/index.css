@@ -1,12 +1,61 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+body {
+    background-color: rgb(125, 138, 125);
+  }
+  div.box {
+    height: 90px;
+    width: 453px;
+    background-color: white;
+    margin: 0px auto;
+    margin-top: 100px;
+  }
+#primero{
+    display:inline-block;
+    background-color: rgb(138, 109, 135);
+    width: 60px;
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 4px;
+    border-color: black solid ;
+}
+#segundo{
+    display:inline-block;
+    background-color: rgb(185, 216, 45);
+    width: 60px;
+    height: 80px;
+    margin-left: 4px;
+}
+#tercero{
+    display:inline-block;
+    background-color: rgb(51, 70, 133);
+    width: 60px;
+    height: 80px;
+    margin-left: 4px;
+}
+#cuarto{
+    display:inline-block;
+    background-color: rgb(34, 158, 96);
+    width: 60px;
+    height: 80px;
+    margin-left: 4px;
+}
+#quinto{
+    display:inline-block;
+    background-color: rgb(226, 195, 195);
+    width: 60px;
+    height: 80px;
+    margin-left: 4px;
+}
+#sexto{
+    display:inline-block;
+    background-color: rgb(128, 98, 199);
+    width: 60px;
+    height: 80px;
+    margin-left: 4px;
+}
+#imagen{
+    display:inline-block;
+    background-color: red;
+    height: 80px;
+    width: 60px;
+    margin-left: 4px;
+}
