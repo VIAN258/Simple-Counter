@@ -4,58 +4,77 @@ body {
   div.box {
     height: 90px;
     width: 453px;
-    background-color: white;
+    background-color: rgb(31, 29, 29);
     margin: 0px auto;
     margin-top: 100px;
   }
 #primero{
     display:inline-block;
-    background-color: rgb(138, 109, 135);
+    background-color: rgb(92, 89, 91);
     width: 60px;
     height: 80px;
     margin-top: 5px;
     margin-left: 4px;
-    border-color: black solid ;
+    text-align: center;
+    border-style: outset;
+    
+   
 }
 #segundo{
     display:inline-block;
-    background-color: rgb(185, 216, 45);
+    background-color: rgb(92, 89, 91);
     width: 60px;
     height: 80px;
     margin-left: 4px;
+    text-align: center;
+    border-style: outset;
+    
 }
 #tercero{
     display:inline-block;
-    background-color: rgb(51, 70, 133);
+    background-color: rgb(92, 89, 91);
     width: 60px;
     height: 80px;
     margin-left: 4px;
+    text-align: center;
+    border-style: outset;
+   
 }
 #cuarto{
     display:inline-block;
-    background-color: rgb(34, 158, 96);
+    background-color: rgb(92, 89, 91);
     width: 60px;
     height: 80px;
     margin-left: 4px;
+    text-align: center;
+    border-style: outset;
 }
 #quinto{
     display:inline-block;
-    background-color: rgb(226, 195, 195);
+    background-color: rgb(92, 89, 91);
     width: 60px;
     height: 80px;
     margin-left: 4px;
+    text-align: center;
+    border-style: outset;
+    
 }
 #sexto{
     display:inline-block;
-    background-color: rgb(128, 98, 199);
+    background-color: rgb(92, 89, 91);
     width: 60px;
     height: 80px;
     margin-left: 4px;
+    text-align: center;
+    border-style: outset;
 }
 #imagen{
     display:inline-block;
-    background-color: red;
+    background-color: rgb(92, 89, 91);
     height: 80px;
     width: 60px;
     margin-left: 4px;
+    text-align: center;
+    border-style: outset;
+    
 }
